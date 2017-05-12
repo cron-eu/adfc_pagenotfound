@@ -1,0 +1,9 @@
+{
+	"name": "cron-eu/adfc-pagenotfound",
+	"type": "typo3-cms-extension",
+	"description": "",
+	"homepage": "https://github.com/cron-eu/adfc_pagenotfound",
+	"keywords": ["TYPO3 CMS"],
+	"require": {
+	}
+}
